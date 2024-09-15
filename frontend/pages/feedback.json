@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Gokul Nath M",
+        "intern_role": "Web Developer",
+        "company": "K S Rangasamy College of Technology",
+        "feedback": "Hello All, it was a beautiful experience to use this application."
+    },
+    {
+        "name": "Ravi Kumar",
+        "intern_role": "Data Analyst",
+        "company": "Tech Innovators Pvt. Ltd.",
+        "feedback": "I gained a lot of practical insights into data analysis. Great experience!"
+    },
+    {
+        "name": "Samantha R.",
+        "intern_role": "UI/UX Designer",
+        "company": "Creative Minds",
+        "feedback": "The internship was well-organized, and I learned a lot about user-centered design."
+    },
+    {
+        "name": "Ankita D.",
+        "intern_role": "Software Engineer",
+        "company": "ABC Solutions",
+        "feedback": "Working on real projects helped me enhance my coding skills. The team was very supportive."
+    },
+    {
+        "name": "John Doe",
+        "intern_role": "Marketing Intern",
+        "company": "MarketPro Inc.",
+        "feedback": "I got a chance to work on digital marketing strategies. The experience was very rewarding."
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Aarav Sharma",
+        "regno": "73772227101",
+        "department": "Computer Science",
+        "intern_role": "Software Developer",
+        "company_name": "Tech Innovations",
+        "company_location": "Bangalore",
+        "status": "Approved"
+    },
+    {
+        "name": "Isha Patel",
+        "regno": "73772227102",
+        "department": "Information Technology",
+        "intern_role": "Data Analyst",
+        "company_name": "Data Corp",
+        "company_location": "Pune",
+        "status": "Approved"
+    },
+    {
+        "name": "Kunal Mehta",
+        "regno": "73772227103",
+        "department": "Electronics",
+        "intern_role": "Embedded Systems Engineer",
+        "company_name": "Embedded Solutions",
+        "company_location": "Hyderabad",
+        "status": "Disapproved"
+    },
+    {
+        "name": "Neha Gupta",
+        "regno": "73772227104",
+        "department": "Mechanical Engineering",
+        "intern_role": "Design Engineer",
+        "company_name": "AutoMotive Inc.",
+        "company_location": "Chennai",
+        "status": "Disapproved"
+    },
+    {
+        "name": "Rohan Verma",
+        "regno": "73772227105",
+        "department": "Civil Engineering",
+        "intern_role": "Site Engineer",
+        "company_name": "BuildCon",
+        "company_location": "Delhi",
+        "status": "Disapproved"
+    },
+    {
+        "name": "Shreya Singh",
+        "regno": "73772227106",
+        "department": "Biotechnology",
+        "intern_role": "Research Assistant",
+        "company_name": "BioTech Labs",
+        "company_location": "Mumbai",
+        "status": "Approved"
+    },
+    {
+        "name": "Vikram Rathore",
+        "regno": "73772227107",
+        "department": "Electrical Engineering",
+        "intern_role": "Power Systems Engineer",
+        "company_name": "PowerGrid",
+        "company_location": "Kolkata",
+        "status": "Approved"
+    },
+    {
+        "name": "Ananya Nair",
+        "regno": "73772227108",
+        "department": "Chemical Engineering",
+        "intern_role": "Process Engineer",
+        "company_name": "ChemSol",
+        "company_location": "Goa",
+        "status": "Pending"
+    },
+    {
+        "name": "Pranav Desai",
+        "regno": "73772227109",
+        "department": "Aerospace Engineering",
+        "intern_role": "Aerodynamics Specialist",
+        "company_name": "AeroTech",
+        "company_location": "Ahmedabad",
+        "status": "Approved"
+    },
+    {
+        "name": "Sakshi Rao",
+        "regno": "73772227110",
+        "department": "Biomedical Engineering",
+        "intern_role": "Clinical Researcher",
+        "company_name": "MedLife",
+        "company_location": "Jaipur",
+        "status": "Pending"
+    }
+]
