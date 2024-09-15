@@ -1,7 +1,0 @@
-reactpy==0.1.0  # Use the appropriate version of ReactPy
-fastapi==0.95.1  # If you're using FastAPI for backend (adjust if not applicable)
-uvicorn==0.22.0  # Required for serving FastAPI app
-watchdog==3.0.0  # To auto-reload on file changes (used with watcher.py)
-
-# Additional dependencies, if any
-pydantic==1.10.2  # For data validation and settings management (used in FastAPI)
