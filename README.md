@@ -27,13 +27,14 @@ Follow these steps to set up the project locally.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/internship-management-system.git
+    git clone https://github.com/gokulmohankumar/reactPY-InternManagement.git
     ```
 
 2. Navigate into the project directory:
 
     ```bash
     cd internship-management-system
+    cd frontend
     ```
 
 3. Create a virtual environment for Python:
