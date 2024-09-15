@@ -73,8 +73,4 @@ password : password456 <br>
 ├── venv/                 # Virtual environment for Python dependencies
 ├── requirements.txt      # List of Python dependencies
 └── README.md             # This file
-![image](https://github.com/user-attachments/assets/011c0b8b-d326-4436-a41b-909df07a401a)
-![image](https://github.com/user-attachments/assets/12d60f01-90c1-455d-8d31-5df7ca608525)
-![image](https://github.com/user-attachments/assets/f565453c-e37a-4cb1-baf1-f109763ceb71)
-![Uploading image.png…]()
 
